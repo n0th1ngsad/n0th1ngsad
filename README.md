@@ -1,1 +1,1 @@
-[typerwritter-main](main1.gif)
+[typerwritter-main](main.svg)

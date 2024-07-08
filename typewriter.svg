@@ -1,0 +1,47 @@
+<svg viewBox="0 0 500 100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font: bold 24px monospace;
+      fill: black;
+    }
+    .cursor {
+      fill: black;
+      animation: blink 1s steps(2, start) infinite;
+    }
+    @keyframes blink {
+      to {
+        visibility: hidden;
+      }
+    }
+    @keyframes typing {
+      from {
+        width: 0;
+      }
+      to {
+        width: 18ch;
+      }
+    }
+    @keyframes erasing {
+      from {
+        width: 18ch;
+      }
+      to {
+        width: 0;
+      }
+    }
+    .typing {
+      overflow: hidden;
+      border-right: 0.15em solid black;
+      white-space: nowrap;
+      animation: 
+        typing 3s steps(18, end),
+        erasing 3s steps(18, end) 3s,
+        typing 3s steps(24, end) 6s,
+        erasing 3s steps(24, end) 9s;
+      animation-iteration-count: infinite;
+    }
+  </style>
+  <text x="0" y="30" class="text typing">Welcome to my profile</text>
+  <text x="0" y="30" class="text typing" style="visibility: hidden;">| ➜ Kernel Developer | ➜ Discord bot Developer | ➜ Software Designer |</text>
+  <rect x="240" y="5" width="10" height="30" class="cursor"/>
+</svg>

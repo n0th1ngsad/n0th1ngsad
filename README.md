@@ -7,7 +7,7 @@ int main() {<br />
 }<br />
 ```
 
-`
+```
 print("I am currently studying Python and Kernel")
-`
+```
 

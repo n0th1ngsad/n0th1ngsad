@@ -1,1 +1,1 @@
-![Typewriter Effect](typewriter.svg)
+[Typewriter Effect](https://username.github.io/repository-name/)

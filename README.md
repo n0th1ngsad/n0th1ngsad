@@ -1,5 +1,4 @@
-<img src="https://cdn.glitch.com/0e4d1ff3-5897-47c5-9711-d026c01539b8%2Fbddfd6e4434f42662b009295c9bab86e.gif?v=1573157191712" alt="this slowpoke moves"  width="250" alt="404 image"/>
-<br/>
+<img src="https://cdn.glitch.com/0e4d1ff3-5897-47c5-9711-d026c01539b8%2Fbddfd6e4434f42662b009295c9bab86e.gif?v=1573157191712" alt="this slowpoke moves"  width="250" alt="404 image"/><br/>
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2sqedz98t0t3e2vtbvo2646vs&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=2sqedz98t0t3e2vtbvo2646vs&redirect=true)
 
 # 💫 About Me

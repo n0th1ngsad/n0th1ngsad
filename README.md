@@ -27,11 +27,12 @@ print("I am currently studying Python and Kernel")
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  /> </div> <br/>
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  </div> <br/>
 **Sofware Coding** <div align="left"> 
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
   <img width="12" />

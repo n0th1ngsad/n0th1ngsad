@@ -1,5 +1,5 @@
 <h1 align="center">╭──╯ 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗽𝗿𝗼𝗳𝗶𝗹𝗲 ╰──╮</h1><br/>
-<img src="https://giphy.com/embed/tkaDAjbZUmoH1a1Z2R" class="giphy-embed" height="900"  width="1920"/><br/>
+<iframe src="https://giphy.com/embed/tkaDAjbZUmoH1a1Z2R" width="480" height="336" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/animatr-anime-rain-aesthetic-studio-ghibli-tkaDAjbZUmoH1a1Z2R">via GIPHY</a></p><br/>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2sqedz98t0t3e2vtbvo2646vs&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=2sqedz98t0t3e2vtbvo2646vs&redirect=true)
 

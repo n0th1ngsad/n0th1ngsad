@@ -2,10 +2,10 @@
 <img src="WalkAnime.webp" width="1080" height="500" frameBorder="0" allowFullScreen><br/>
 
 <div align="center">
-  <a href="https://open.spotify.com/user/kdmapper.exe">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kdmapper.exe&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2sqedz98t0t3e2vtbvo2646vs&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=2sqedz98t0t3e2vtbvo2646vs&redirect=true)
+
+</div><br/>
 
 # 💫 About Me
 ```C++

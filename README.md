@@ -1,5 +1,5 @@
 <h1 align="center">╭──╯ 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗽𝗿𝗼𝗳𝗶𝗹𝗲 ╰──╮</h1><br/>
-<img src="WalkAnime.webp" width="1080" height="500" frameBorder="0" allowFullScreen><br/>
+<img src="WalkAnime.webp" width="1080" height="600" frameBorder="0" allowFullScreen><br/>
 
 <div align="center">
   

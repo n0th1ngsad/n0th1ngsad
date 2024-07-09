@@ -50,3 +50,5 @@ print("I am currently studying Python and Kernel")
 
 ---
 [![](https://visitcount.itsvg.in/api?id=n0th1ngsad&icon=0&color=1)](https://visitcount.itsvg.in)
+<br/>
+<img src="https://raw.githubusercontent.com/n0th1ngsad/n0th1ngsad/output/snake.svg" alt="Snake animation" />

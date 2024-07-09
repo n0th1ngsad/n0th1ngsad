@@ -1,5 +1,5 @@
 <h1 align="center">╭──╯ 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗽𝗿𝗼𝗳𝗶𝗹𝗲 ╰──╮</h1><br/>
-<img src="WalkAnime.webp" width="1080" height="400" style="" frameBorder="0" allowFullScreen><br/>
+<img src="WalkAnime.webp" width="1080" height="500" style="" frameBorder="0" allowFullScreen><br/>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2sqedz98t0t3e2vtbvo2646vs&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=ffffff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=2sqedz98t0t3e2vtbvo2646vs&redirect=true)
 

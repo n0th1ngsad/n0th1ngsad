@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/kdmapper.exe">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kdmapper.exe&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=2sqedz98t0t3e2vtbvo2646vs)" alt="Spotify recently played"  />
   </a>
 </div>
 

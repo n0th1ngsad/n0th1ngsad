@@ -7,10 +7,6 @@
   </a>
 </div>
 
-<div align="left">
-  <img src="https://accounts.spotify.com/authorize?client_id={2c8a0f3d34364141aaaec7f164c55623:5cdbf5ab656d49fc8e9d6dc58500f283}&response_type=code&scope=user-read-currently-playing,user-read-recently-played&redirect_uri=http://localhost/callback/?theme=dark&spin=true" alt="Widget with the current Spotify song"  />
-</div>
-
 </div><br/>
 
 # 💫 About Me
